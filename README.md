@@ -1,6 +1,6 @@
 # Learn the alphabet using Recurrent Neural Network
 
-alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"  
 Credit: Deep Learning with Python by Jason Brownlee  
 
 ## 1. alphabet_LSTM_1to1  for  Learning  One-Char  to  One-Char  Mapping, 1 to 1
